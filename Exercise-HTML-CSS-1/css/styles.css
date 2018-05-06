@@ -1,0 +1,92 @@
+html,body{
+	background-color: #F5F5F5;
+	color: #3C3C3C;
+}
+
+a{
+	color: #087E8B;
+}
+
+table,th,td{
+	border: 1px solid black;
+	
+}
+
+table{
+	border-collapse: separate;
+	border-spacing: 2px !important;
+	margin: 1em 0;
+}
+
+td{
+	text-align: left;
+}
+
+
+th{
+	text-align: center;
+}
+
+label,input{
+	margin: 5px;
+}
+
+fieldset{
+	border-collapse: separate;
+}
+
+legend{
+	font-size: 16px;
+
+}
+
+.bottom{
+	margin-top: 2em;
+	margin-left: auto;
+	padding: .5em;
+}
+
+fieldset.scheduler-border {
+    border: 1px solid black !important;
+    padding: 0 .5em .5em 0.5em !important;
+    
+    margin-right: -15px;
+    margin-left: -15px;
+    
+}
+
+legend.scheduler-border {
+
+    text-align: left !important;
+    width:inherit; 
+    padding:0 .5em; 
+    border-bottom:none;
+}
+
+.experience{
+	margin-right: -15px;
+    margin-left: -15px;
+}
+
+.top{
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+
+
+.footer{
+	background-color: #F1636A;
+	color: white;
+	margin-bottom: 0;
+}
+
+.footer a{
+	color: white;
+	
+}
+
+.footer a:hover{
+	color: #D0D0D0;
+	text-decoration: underline;
+}
+
